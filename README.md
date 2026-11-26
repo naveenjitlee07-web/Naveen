@@ -1,0 +1,4 @@
+# Portfolio
+Static reconstruction, not a Framer export. Open index.html to preview. Upload the files at repository root, then Settings > Pages > Deploy from a branch > main > / (root) > Save. No build required.
+
+The portrait is remotely hosted on Framer CDN. To make it independent, save the image locally as portrait.jpg and replace its URL in index.html. Project artwork is an illustrative CSS placeholder, not original work. The source repeated the same project link seven times; only one card is included. Verify the project link and add your actual project images and case studies. The original resume link could not be retrieved; add a working resume before publishing. Testimonials are paraphrases, not verbatim quotes. Original styling, fonts, animations and social links are not reproduced. Test in your browser before publishing.
